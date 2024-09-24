@@ -802,7 +802,7 @@
         },
         "downloader_ytmeta": {
             "texto1": "*[❗] Insira um link do YouTube.*",
-            "texto2": "🤴🏻 Download por Readz Aleizn & Readz Aleizn 🤖"
+            "texto2": "🤴🏻 Download por 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭 & 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭 🤖"
         },
         "downloader_ytv_2": {
             "texto1": "*[❗𝐈𝐍𝐅𝐎❗] Insira o comando mais o link do vídeo do YouTube*",
@@ -2194,7 +2194,7 @@
                 "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR",
                 "À SUA CONTA PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
             ],
-            "texto4": "Oi!! Olá, eu sou Readz Aleizn e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
+            "texto4": "Oi!! Olá, eu sou 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭 e sou um Bot para WhatsApp. Alguém do grupo usou o comando para te adicionar ao grupo, mas não pude te adicionar, então estou te enviando o convite para que você se junte a nós. Estamos te esperando!!",
             "texto5": "[❗INFORMAÇÃO❗] IMPOSSÍVEL ADICIONAR SEU NÚMERO PORQUE OCORREU UM PROBLEMA. NOTE QUE A PESSOA SAIU DO GRUPO OU CANCELOU SUA PRIVACIDADE DE GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. O CONVITE FOI ENVIADO AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO OU A PESSOA CONFIRMOU SUA PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE AO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. CONVIDO VOCÊ AO CONVITE DO GRUPO EM SUAS CONFIGURAÇÕES DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES ENVIARÃO O CONVITE DO GRUPO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO. OS ADMINISTRADORES GARANTIRÃO QUE O CONVITE AO GRUPO SEJA ENVIADO AO SEU CONFIGURAÇÃO DE PRIVACIDADE DE GRUPO !!"
         },
         "gc_admins": {
@@ -2416,15 +2416,15 @@
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por Readz Aleizn, você será Readz Aleizn.",
-            "texto3": "Você vai atuar como um Bot de WhatsApp criado por Readz Aleizn, você será Readz Aleizn.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭, você será 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭.",
+            "texto3": "Você vai atuar como um Bot de WhatsApp criado por 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭, você será 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭.",
             "texto4": "*[❗] Erro, tente novamente*"
         },
         "herramientas_chatgptvoz": {
             "texto1": [
                 "*[❗] Você está em uma conversa ou ordem para usar a função de chatbot*\n\n*—◉ Exemplos de Petições e Ordens*\n*◉ Reflexão sobre a série Merlina 2022 da Netflix*\n*◉ Código em JS para um jogo de cartas*"
             ],
-            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será Readz Aleizn.",
+            "texto2": "Você vai atuar como um Bot de WhatsApp criado por BrunoSobrino, você será 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭.",
             "texto3": "*[❗] Erro, tente novamente*"
         },
         "herramientas_clima": {
@@ -2724,7 +2724,7 @@
             "texto2": "O Melhor Hospedagem 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git && cd Readz Aleizn\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Readz Aleizn\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd Readz Aleizn\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ INSTALAÇÃO DO BOT PRINCIPAL*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Página Oficial: https://boxmineworld.com\n> Painel de Controle: https://dash.boxmineworld.com/home\n> Painel: https://panel.boxmineworld.com\n> Suporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALAÇÃO DO BOT TERCIÁRIO\n> Tutorial: https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMANDOS DE INSTALAÇÃO*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY.git && cd 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ATIVAÇÃO EM CASO DE PARADA NO TERMUX ✔️\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENHA OUTRO CÓDIGO QR NO TERMUX 👽\nDIGITE OS SEGUINTES COMANDOS UM POR UM:\n> cd 𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭\n> rm -rf MysticSession\n> npm start",
             "texto2": "O Melhor Bot do WhatsApp"
         },
         "info_listprem": {
@@ -2759,7 +2759,7 @@
             "texto1": [
                 "_*< INFORMAÇÕES - REPOSITÓRIO />*_",
                 "▢ *Nome:*",
-                "Readz Aleizn",
+                "𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭",
                 "▢ *Visitantes:*",
                 "▢ *Tamanho:*",
                 "▢ *Última atualização:*",

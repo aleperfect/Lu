@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
         mediaType: 2,
         previewType: "pdf",
-        title: "Readz Aleizn",
+        title: "𝐆𝐨𝐣𝐨̄𝐁𝐨𝐭",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/CCDGO1lIuH3Ggr4nA44cbY",
